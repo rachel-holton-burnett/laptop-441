@@ -1,0 +1,2 @@
+<h1> Rachel Holton-Burnett Week 8 Read Me </h1>
+<p> I had a lot of difficulties with this assignment. I could not get my array to work properly to display my second picture. I am having the hardest time with these arrays and I know I'm missing something I just can't put my finger on it. I know the assignment is also supposed to have shapes but I kind of stopped when I wasn't able to get the second picture working correctly. </p>
