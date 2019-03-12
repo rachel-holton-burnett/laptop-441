@@ -1,0 +1,42 @@
+   #pineapple {
+      width: 250px;
+      height: 300px;
+      position: absolute;
+      left: 0;
+      top: 40;
+
+    }
+
+    .title{
+      background: #ffd063;
+      color: #1a593e;
+      font-size: 75px;
+      font-weight: bold;
+      position: absolute;
+      top: 250;
+    }
+
+    #third{
+      background: green;
+    }
+.first{
+  background: #ffd063;
+  color: #1a593e;
+  font-size: 55px;
+  position: absolute;
+  top:400;
+  
+
+}
+
+.second{
+  background: #ffd063;
+  color: #1a593e;
+  font-size: 55px;
+  position: absolute;
+  top: 500;
+
+}
+    body{
+        background-color: #ffbcc7;
+    }
